@@ -1,0 +1,2 @@
+accuracy,time,seed,psi,beta,alpha,zigma,chars_number,digits_number,num_words,kappa,hidden_size,activation0,activation1,loss,optimizer,metrics,batch_size,epochs
+0.9794076586059167,117.26189663807551,8,0.005,0.3,0.15,0.75,6,0,13000,1.5,125,relu,softmax,categorical_crossentropy,adam,accuracy,64,250
